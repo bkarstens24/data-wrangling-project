@@ -11,9 +11,20 @@ https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019?resou
 
 Original, unmodified data after downloading, scraping, etc. 
 
+Description of csv files: 
+
+- The chunk files are the csv files we used to split up the scraping
+- The top song streams file is a single file of all of the chunk files
+- The api songs file is the data we collected from the api
+- The top 1000 songs file is the csv file we downloaded from Kaggle
+
 ### Final
 
 Data after all cleaning, processing, and analyzing
+
+Description of csv file:
+
+- This final song csv file includes the cleaned and merged versions of the api file, top 1000 songs file, and top song streams file
 
 ---
 
