@@ -2,7 +2,7 @@
 This Data Wrangling group project is our Spotify analysis and is made by Brian Karstens and Christian Kleronomos. 
 
 ## Details
-This project includes an analysis of Spotify data that looks at the top 100 songs for each year from 2010-2019.
+Our goal of this project is to explore whether the number of streams on Spotify directly influences a song's inclusion in the Top Hits playlist. Using Spotify's Web API, we collected streaming data for songs and compared it to the *popularity* metric from a Kaggle dataset, focusing on Top Hits from 2010 to 2019. The streaming data was retrieved using our unique Spotify Web API client ID.
 
 ### To Do List
 
