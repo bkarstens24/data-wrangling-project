@@ -1,2 +1,2 @@
-# results
-This folder contains the deliverables for the final form of the project to send out. This includes things like visualizations, pdfs, powerpoints, etc.
+# Results
+This folder contains the deliverables for the final form of the project to send out. In this case, it includes our report document, and the visualizations include in our project are located inside that report document.
